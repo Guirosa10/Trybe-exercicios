@@ -1,0 +1,74 @@
+article{
+    width: 80%;
+    border: 2px solid black;
+    background-color: darkkhaki;
+    margin-top: 5px;
+    float: left;
+    
+}
+#article-part-one{
+    margin-left: 10px;
+    
+    width: 90%;
+}
+#article-part-two{
+    width: 90%;
+    
+    margin-left: 10px;
+}
+aside{
+    background-color: aqua;
+    float: right;
+    width: 15%;
+    border: 5px solid black;
+    display: block;
+    height: 1460px;
+    
+}
+
+body{
+    border: 5px black;
+    background-color: coral;
+    font-family: sans-serif;
+}
+footer{
+    padding: 5px;
+    background-color: dodgerblue;
+    border: 5px solid black;
+}
+header{
+    background-color: aqua;
+    display: block;
+    width: 98%;
+    padding: 10px;
+    border: 5px solid black;
+}
+h1, h2{
+    text-align: center;
+}
+#nav-links ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+nav{
+    background-color: aquamarine;
+    border: 2px solid black;
+    margin-top: 10px;
+    width: 100%;
+    display: block;
+}
+main{
+    background-color: brown;
+    
+    display: inline-block;
+}
+.cientific{
+    text-align: center;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    margin: 0%;
+    display: block;
+    width: 20%;
+}
