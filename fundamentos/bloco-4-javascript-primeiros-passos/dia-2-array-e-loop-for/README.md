@@ -1,0 +1,1 @@
+Neste dia, foram realizados exercícios acerca de loop e arrays.
