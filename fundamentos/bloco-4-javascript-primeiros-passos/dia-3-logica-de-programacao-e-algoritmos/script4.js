@@ -6,7 +6,7 @@ for ( let index = 0; index < n; index += 1){
         lista = lista + " ";
     }
     for(let secondIndex = 0; secondIndex <= index; secondIndex += 1){
-        lista += "*";
+        lista += " *";
     }
     console.log(lista);
 }
