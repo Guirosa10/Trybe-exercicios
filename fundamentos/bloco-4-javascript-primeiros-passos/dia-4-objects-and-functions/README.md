@@ -1,0 +1,1 @@
+Neste dia (bloco 4 - dia 4), estudamos objetos, for/in e funções, realizando exercícios relativos a estes assuntos.
