@@ -10,12 +10,17 @@
     <h1 id="paragraphh1">LOREM IPSUM LOREM IPSUMLOREM IPSUM LOREM IPSUM</h1>
     <p id="paragraphp">LOREM IPSUM LOREM IPSUMLOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUMLOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM</p>
     <div id="">
-    <input type="text" value="" id="backgroundInput">Mudança na cor de fundo<br />
+        <p>Digite a cor de fundo desejada ( em inglês)</p>
+    <input type="color" value="" id="colorInput">Mudança na cor de fundo <input type="button" id = colorButton value="Clique aqui para mudar a cor" onclick="backgroundChangerFunction()">
+
     <form>
-        <input type="radio" value="Comic Sans" id="comicSans">
-        <label for="comicSans">Comic Sans</label><br>
-        <input type="radio" value="Arial" id='arial'>
-        <label for="arial">Arial</label><br>
+        <p>Escolha a fonte desejada</p>
+        <input type="radio" id="arial" name="fav_language" value="Arial">
+        <label for="arial">Arial</label>
+        <input type="radio" id="comic sans" name="fav_language" value="Comic Sans">
+        <label for="comic sans">Comic Sans</label>
+        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+        <label for="javascript">Times New Roman</label>
     </form>
     </div>
     <script src="script3.js"></script>
