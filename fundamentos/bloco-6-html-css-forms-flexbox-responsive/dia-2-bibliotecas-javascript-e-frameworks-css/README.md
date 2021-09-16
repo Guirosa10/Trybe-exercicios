@@ -1,0 +1,1 @@
+Neste módulo, foram realizados exercícios acerta do assunto do dia: Bibliotecas Javascript e Frameworks CSS.
