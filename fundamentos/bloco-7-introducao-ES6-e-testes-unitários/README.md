@@ -1,0 +1,1 @@
+Neste Bloco, iremos estudar o ecmascript 6 e testes unitários.
