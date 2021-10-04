@@ -1,0 +1,1 @@
+Neste dia, fomos introduzidos ao novo objetod e estudo, as HOFs.
