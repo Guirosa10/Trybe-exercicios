@@ -1,0 +1,1 @@
+Neste dia, estudamos as HOFs: forEach, find, some, every e sort.
