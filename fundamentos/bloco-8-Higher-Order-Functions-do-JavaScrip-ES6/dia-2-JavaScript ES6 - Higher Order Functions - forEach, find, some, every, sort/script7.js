@@ -1,4 +1,4 @@
-const people = [
+const books = [
     { name: 'Mateus', age: 18 },
     { name: 'José', age: 16 },
     { name: 'Ana', age: 23 },
@@ -7,10 +7,10 @@ const people = [
   ];
 // order crescente
 
-people.sort((a, b) => (a.age) - (b.age));
-console.log(people);
+books.sort((a, b) => (a.age) - (b.age));
+console.log(books);
 
 //order decrescente
 
-people.sort((a, b) => (b.age) - (a.age));
-console.log(people);
+books.sort((a, b) => (b.age) - (a.age));
+console.log(books);
