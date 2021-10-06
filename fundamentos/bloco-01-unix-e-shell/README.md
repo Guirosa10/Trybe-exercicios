@@ -1,0 +1,1 @@
+Neste Bloco, aprendemos comandos básicos acerca do terminal do linux.
