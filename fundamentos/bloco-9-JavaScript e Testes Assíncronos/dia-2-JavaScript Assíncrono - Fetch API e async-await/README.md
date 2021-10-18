@@ -1,0 +1,1 @@
+Neste dia, aprendemos um pouco sobre Fetch API, async/await.
