@@ -1,0 +1,1 @@
+Neste Bloco, foi feita a introdução do MySQL. Aprendemos seus conceitos básicos e comandos básicos.
